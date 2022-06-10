@@ -1,9 +1,9 @@
 # start of imports
+import os
 os.system('pip install pygame')
 import pygame
 import time
 import sys
-import os
 # end of imports
 print("Initalizing Tool...")
 time.sleep(1)
