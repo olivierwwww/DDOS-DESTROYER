@@ -4,6 +4,7 @@ import time
 import sys
 import os
 # end of imports
+os.system('pip install pygame')
 print("Initalizing Tool...")
 time.sleep(1)
 print("Initalized Succesfully!")
