@@ -1,3 +1,3 @@
 import os 
-os.system('cd Requirements')
-os.system('python actualscript.py')
+os.system("CD Requirements")
+os.system("python3 actualscript.py")
