@@ -26,7 +26,7 @@ background_colour = (255, 255, 255)
 screen = pygame.display.set_mode((620, 500))
 black = pygame.image.load('B1.png')
 white = pygame.image.load('B2.png')
-pygame.mixer.music.load('redspider.mp3
+pygame.mixer.music.load('redspider.mp3')
 clock = pygame.time.Clock()
 def gamerloop():
     screen.blit(black, (0,0))
