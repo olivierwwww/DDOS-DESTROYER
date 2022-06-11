@@ -26,7 +26,7 @@ background_colour = (255, 255, 255)
 screen = pygame.display.set_mode((620, 500))
 black = pygame.image.load('B1.png')
 white = pygame.image.load('B2.png')
-pygame.mixer.music.load('idiot.mp3')
+pygame.mixer.music.load('redspider.mp3
 clock = pygame.time.Clock()
 def gamerloop():
     screen.blit(black, (0,0))
@@ -53,11 +53,4 @@ while running:
         if event.type == pygame.QUIT:
             pygame.quit()
             running = False
-while running == False:
-    pygame.display.flip()
-    screen.blit(white, (0,0))
-    pygame.time.delay(890)
-    pygame.display.flip()
-    screen.blit(black, (0,0))
-    pygame.time.delay(890)
-    pygame.display.flip()
+
