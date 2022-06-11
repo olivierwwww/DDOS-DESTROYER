@@ -15,5 +15,9 @@ Made by Red_Spider, Red_Spider army utilizes over 10,000 computers recently thei
 <P> REQUIRES LINUX + GUI, terminal only displays won't work </p>
 <p>------------ENDING STATEMENTS-------------------------</p>
 <p> Have Fun! </p>
+<p> This may sound obvious but you need to install python </p>
+<p> THIS IS AN EXAMPLE OF WHAT COMMAND TO RUN IT MAY DIFFER FOR YOU </p>
+<p> sudo apt-get install python </p>
+<p> or sudo apt get install python </p>
 
 
