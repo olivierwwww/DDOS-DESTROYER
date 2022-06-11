@@ -9,7 +9,11 @@ Made by Red_Spider, Red_Spider army utilizes over 10,000 computers recently thei
 
 <P>Have fun and keep on hacking!</P>
 <P>---------Instructions on how to install-----------------</P>
-<P>Git clone:</P> 
-
+<P>git clone https://github.com/SpookyCookies/DDOS-DESTROYER.git</P> 
+<p> cd DDOS-DESTROYER </p>
+<p> python3/python ok.py </p>
+<P> REQUIRES LINUX + GUI, terminal only displays won't work </p>
+<p>------------ENDING STATEMENTS-------------------------</p>
+<p> Have Fun! </p>
 
 
