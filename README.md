@@ -19,5 +19,5 @@ Made by Red_Spider, Red_Spider army utilizes over 10,000 computers recently thei
 <p> THIS IS AN EXAMPLE OF WHAT COMMAND TO RUN IT MAY DIFFER FOR YOU </p>
 <p> sudo apt-get install python </p>
 <p> or sudo apt get install python </p>
-
+<p> THIS PROJECT IS RETIRED DOWNLOADING WILL DO NOTHING</p>
 
